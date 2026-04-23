@@ -1,0 +1,14 @@
+# Build output
+build/
+dist/
+out/
+
+# Archives
+*.zip
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
